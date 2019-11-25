@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="sbt: eu.timepit:refined-cats_2.12:0.9.10:jar">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.ivy2/cache/eu.timepit/refined-cats_2.12/jars/refined-cats_2.12-0.9.10.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.ivy2/cache/eu.timepit/refined-cats_2.12/srcs/refined-cats_2.12-0.9.10-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>
